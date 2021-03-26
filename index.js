@@ -59,7 +59,7 @@ const app = express()
 const port = process.env.PORT || 5000;
 
 app.get('/', (req, res) => {
-  res.send(`Hello World! at port : ${PORT}`)
+  res.send(`Hello World! at port : ${port}`)
 })
 
 app.listen(port, () => {
