@@ -2,6 +2,6 @@
 "AccessKeyID" : "LTAI4G65HmcxEDLmqNumzn3h",
 "AccessKeySecret" : "ThzsgLTMTbAmbdrVIuz2zrXxE4x9dk",
 "RoleArn" : "acs:ram::5020307665198255:role/admin",
-"TokenExpireTime" : "900",
+"TokenExpireTime" : "2000",
 "PolicyFile": "policy/bucket_write_policy.txt"
 }
