@@ -5,8 +5,8 @@
         "oss:GetObject"
       ],
       "Effect": "Allow",
-      "Resource": ["acs:oss:*:*:$BUCKET_NAME/$OBJECT_PREFIX*"]
+      "Resource": ["acs:oss:*:*:pustack-agora-resource/oss_mobile*"]
     }
   ],
-  "Version": "1"
+  "Version": "2"
 }
